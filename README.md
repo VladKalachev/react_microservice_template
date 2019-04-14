@@ -1,1 +1,1 @@
-hello
+Пример микросервиса с испльзованием React, Redux, Redux-Saga, Reselect, Antd а так же архитектурных подход Ducks.
