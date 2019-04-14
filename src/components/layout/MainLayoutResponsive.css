@@ -1,0 +1,70 @@
+/* #root > .ant-layout > .ant-layout-header,
+#root > .ant-layout > .ant-layout-footer {
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.15);
+} */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 5px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 5px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 5px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 5px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 10px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 10px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 50px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 10px 50px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 50px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 10px 50px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1400px) {
+  #root > .ant-layout > .ant-layout-header,
+  #root > .ant-layout > .ant-layout-footer {
+    padding: 0 220px;
+  }
+  #root > .ant-layout > .ant-layout {
+    padding: 10px 220px;
+  }
+}

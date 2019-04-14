@@ -1,0 +1,12 @@
+.menu {
+  border-right: none;
+}
+
+.menu li {
+  margin-top: 0 !important;
+}
+
+.submenuTitleLink {
+  display: block;
+  color: rgba(0, 0, 0, 0.65);
+}

@@ -1,0 +1,120 @@
+.ant-modal-header {
+    padding-bottom: 10px !important;
+}
+
+.title-row-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-row-1 div {
+    display: flex;
+    align-items: center;
+}
+
+.title-column-2 {
+    margin-right: 20px;
+}
+
+.title-text {
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.title-author {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.title-row-2 {
+    margin-top: 10px;
+    margin-left: 24px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.ant-popover {
+    width: 363px;
+}
+
+.popover-title {
+    color: rgb(64, 173, 199);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.popover-row {
+    height: 32px !important;
+}
+
+.status {
+    height: 20px;
+    padding-left: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    font-weight: normal;
+    font-size: 11px;
+    font-style: normal;
+    text-align: left;
+    line-height: 20px;  
+}
+
+.status-1 {
+    width: 108px;
+    background-color: rgba(231, 240, 247, 1);
+    border-color: rgba(145, 213, 255, 1);
+    color: #115CB2;
+}
+
+.status-2 {
+    width: 151px;
+    color: #4CB050;
+    border-color: rgba(183, 235, 143, 1);
+    background-color: rgba(239, 253, 222, 1);
+}
+
+.status-3 {
+    width: 161px;
+}
+
+.status-4 {
+    width: 133px;
+    background-color: rgba(254, 239, 232, 1)
+}
+
+.status-5 {
+    width: 115px;
+    border-color: rgba(217, 217, 217, 1);
+    background-color: rgb(245, 245, 245);
+    color: rgba(0, 0, 0, 0.647);
+}
+
+.status-6 {
+    width: 165px;
+    color: rgb(0, 0, 0, 0.647);
+    border-color: rgb(217, 217, 217);
+}
+
+.status-7 {
+    width: 95px;
+    color: rgb(203, 88, 35);
+    border-color: rgb(145, 213, 255);
+    background-color: rgb(254, 239, 232);
+}
+
+.status-8 {
+    width: 173px;
+    border-color: rgba(145, 213, 255, 1);
+    background-color: rgba(255, 255, 0, 0.298);
+    color: #115CB2;
+}
+
+.status-9 {
+    width: 130px;
+    color: #CB5823;
+    background-color: rgb(254, 239, 232);
+    border-color: rgb(145, 213, 255);
+}

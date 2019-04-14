@@ -1,0 +1,32 @@
+.sidebar :global div.ant-layout-sider-trigger {
+  position: relative;
+  background: #fff;
+  color: inherit;
+  border-top: 1px dotted #ebebeb;
+  height: 40px;
+  line-height: 40px;
+}
+:global .ant-layout-sider-has-trigger {
+  padding-bottom: 40px;
+}
+
+.sidebar :global div.ant-layout-sider-trigger:hover {
+  background: #58c4d9;
+  color: #fff;
+}
+
+.left {
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+.right {
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.right :global div.ant-layout-sider-trigger {
+  transform: rotate(180deg);
+  border-top: 0;
+  border-bottom: 1px dotted #ebebeb;
+}

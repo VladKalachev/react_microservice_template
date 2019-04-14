@@ -1,0 +1,8 @@
+.nameColumn {
+  width: 40%;
+  word-break: break-word;
+}
+.valueColumn {
+  width: 60%;
+  word-break: break-word;
+}
